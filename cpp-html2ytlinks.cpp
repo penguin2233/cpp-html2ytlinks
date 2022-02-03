@@ -6,6 +6,8 @@
 #include <vector>
 #include <regex>
 
+// Copyright (c) 2022 https://penguin2233.gq, no warranty is provided
+
 std::vector<std::string> searchResults;
 
 void searchF(std::string fileName, std::string searchTerm) {
